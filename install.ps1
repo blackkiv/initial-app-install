@@ -27,6 +27,7 @@ choco install python -y
 choco install jetbrainstoolbox -y
 choco install vscode -y
 choco install postman -y
+choco install beekeeper-studio.install -y
 choco install docker-desktop -y
 
 # restart pc for complete installation
