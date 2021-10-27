@@ -9,6 +9,8 @@ choco install 7zip -y
 choco install sharex -y
 choco install googlechrome -y
 choco install spotify -y
+choco install kdenlive -y
+choco install obs-studio.install -y
 
 # install communication soft
 choco install skype -y
